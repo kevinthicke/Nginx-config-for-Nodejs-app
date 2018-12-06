@@ -1,5 +1,6 @@
+## Configuración de Nginx para una aplicación de Nodejs
 
-## Configuración de Nginx como un servidor web y servidor proxy inverso para una aplicación Nodejs (express) en Debian 9.6 x64
+Se expone una configuración de Nginx como un servidor web y servidor proxy inverso para una aplicación Nodejs (express) en Debian 9.6 x64
 
 ### Instalación de Nginx
 
