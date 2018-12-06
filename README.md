@@ -60,4 +60,12 @@ Recargamos Nginx:
 ```
 $ sudo /etc/init.d/nginx reload
 ```
-Clonamos el proyecto:
+Clonamos el proyecto en un directorio adecuado:
+```
+git clone https://github.com/kevinthicke/Nginx-config-for-Nodejs-app.git
+```
+Instalamos las dependencias del proyecto y ejecutamos nuestra aplicación:
+```
+$ npm install
+$ node server.js
+```
